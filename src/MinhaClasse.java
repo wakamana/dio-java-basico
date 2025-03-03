@@ -8,7 +8,7 @@ public class MinhaClasse {
 
         String fullName = fullName(firstName, secondName);
 
-        System.out.printIn(fullName);
+        System.out.println(fullName);
 
     }   
     
